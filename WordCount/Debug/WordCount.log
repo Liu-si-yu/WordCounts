@@ -1,0 +1,14 @@
+﻿生成启动时间为 2020/5/21 21:50:25。
+     1>项目“E:\2223\WordCount\WordCount\WordCount.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\WordCount.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt WordCount.cpp
+         WordCount.cpp
+       Link:
+         E:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\2223\WordCount\Debug\WordCount.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\2223\WordCount\Debug\WordCount.pdb" /SUBSYSTEM:CONSOLE,"5.01" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\2223\WordCount\Debug\WordCount.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\WordCount.obj
+         WordCount.vcxproj -> E:\2223\WordCount\Debug\WordCount.exe
+     1>已完成生成项目“E:\2223\WordCount\WordCount\WordCount.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.50
